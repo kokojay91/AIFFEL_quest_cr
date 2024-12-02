@@ -69,8 +69,8 @@
         │   ├── .ipynb  
         │   └── README.md  
         ├── Ex02  
-        │   ├── .ipynb  
-        └── README.md  
+        │   ├── .ipynb
+        │   └── README.md  
         ├── Ex03  
         │   ├── .ipynb  
         │   └── README.md  
