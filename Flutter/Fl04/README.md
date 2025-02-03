@@ -15,11 +15,14 @@
 ## 앱 와이어프레임(Figma)
 ![Image](https://github.com/user-attachments/assets/4a27061e-4da2-4435-9200-4cdb2f75404c)
 
-## 프로토타이밍(Figma)
+## 프로토타이핑(Figma)
 ![Image](https://github.com/user-attachments/assets/796b490b-942b-4476-b67a-a115718f5f70)
 
-## 구현 영상
+## 프로토타이핑(Figma 영상)
 ![Image](https://github.com/user-attachments/assets/a550c307-5a29-4a95-bbe9-5967c4110e33)
+
+## 플러터 앱 구현 영상
+-![Image](https://github.com/user-attachments/assets/ad113be8-ce64-46e4-a226-8a2dcedbb35e)
 
 # 회고(참고 링크 및 코드 개선)  
 
